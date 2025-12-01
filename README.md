@@ -1,5 +1,11 @@
 # 📡 MCA IoT Practical Experiments: ESP32 Networking
 
+<hr>
+<div align="center">
+  <img src="./Img/banner.jpg" width="auto" alt="Banner">
+</div>
+<hr>
+
 ![ESP32](https://img.shields.io/badge/Hardware-ESP32-blue?style=for-the-badge&logo=espressif)
 ![Arduino](https://img.shields.io/badge/IDE-Arduino-teal?style=for-the-badge&logo=arduino)
 ![Status](https://img.shields.io/badge/Status-Complete-green?style=for-the-badge)
